@@ -1,2 +1,2 @@
-# c-projects
-different projects over the years
+# c++projects
+different c plus plus projects over the years
